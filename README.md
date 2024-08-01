@@ -1,4 +1,6 @@
 # Frontend-Internship
+## here is the link of hosted portfolio
+https://areeshakainatportfolio.netlify.app/
 
 This repository contains four completed tasks showcasing various front-end development skills using HTML, CSS, and JavaScript. Each task focuses on a different aspect of web development to provide practical experience and enhance proficiency.
 
@@ -10,7 +12,7 @@ Develop a calculator with basic arithmetic operations (addition, subtraction, mu
 
 ### Task 3: Build Your Own Portfolio Site
 Build a personal portfolio website to serve as an online resume. Include information about your experience, talents, and expertise, showcasing your front-end development skills.
-## here is the link of hosted portfolio
+## click the below link for portfolio
 https://areeshakainatportfolio.netlify.app/
 
 ### Task 4: Music Player Using JavaScript
